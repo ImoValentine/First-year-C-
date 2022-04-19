@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602017458 source:c:\users\admin\desktop\unisa\c++ codes\removing character\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
